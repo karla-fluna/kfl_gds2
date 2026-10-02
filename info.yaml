@@ -1,10 +1,10 @@
 
 # Tiny Tapeout project information
 project:
-  title:        ""      "kafl_gds2"
-  author:       ""      "KFL"
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      "test2"
+  title:        "kafl_gds2"
+  author:       "KFL"
+  discord:      ""      # Tu usuario de Discord (opcional)
+  description:  "test2"
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
