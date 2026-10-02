@@ -6,8 +6,7 @@ SIM ?= icarus
 FST ?= -fst # Use more efficient FST format
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
-PROJECT_SOURCES = tt_um_kfl_gdl2.v
-PROJECT_SOURCES = hvsync_generator.v
+PROJECT_SOURCES = tt_um_kfl_gdl2.v hvsync_generator.v
 
   
 
