@@ -9,7 +9,7 @@ To use:
 - Add a 3-bit (or more) "rgb" output to the top level
 */
 
-module tt_um_kfl_gdl2(clk, reset, hsync, vsync, display_on, hpos, vpos);
+module hvsync_generator(clk, reset, hsync, vsync, display_on, hpos, vpos);
 
   input clk;
   input reset;
