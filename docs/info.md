@@ -6,18 +6,10 @@ sections.
 You can also include images in this folder and reference them in the markdown. Each image must be less than
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
-
 ## How it works
 
-Explain how your project works
-....
+Escribe aquí una breve descripción de cómo funciona tu proyecto (por ejemplo, cómo genera la señal VGA con hvsync_generator).
+
 ## How to test
 
-Explain how to use your project
-dnn
-.....
-
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-.....
+Escribe aquí las instrucciones para probar el chip o simular el diseño.
